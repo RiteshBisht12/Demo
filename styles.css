@@ -1,0 +1,30 @@
+/* body {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+.ultag {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.outerdiv {
+  display: flex;
+  background-color: aquamarine;
+  justify-content: center;
+  align-items: center;
+}
+.chatbot {
+  background-color: blue;
+  width: 310px;
+  height: 410px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+}
+.chatframe {
+  width: 300px;
+  height: 400px;
+}
